@@ -1,0 +1,8 @@
+action_id,ilo_stage,proposed_action,evidence_required,suggested_validation_actors,expected_output,status
+A01,0,Confirm priority sector and value chain,Sector selection criteria and economic evidence,SSEC + industry/worker representatives,Sector list and rationale,PROPOSED
+A02,1,Validate sector outlook and technology/green scenarios,"Sector statistics, interviews, technical foresight",Sector technical working group,Scenario brief with uncertainty,PROPOSED
+A03,2,Validate enterprise capabilities and task changes,"Employer interviews, workplace observation",Employers + sector experts,Capability/task evidence log,PROPOSED
+A04,3,"Map occupations, tasks and skills to local standards",ESCO plus Ugandan occupational standards and experts,Occupational experts + training providers,Validated occupation–task–skill matrix,PROPOSED
+A05,4,Estimate occupational workforce requirements,"Employment data, expansion/replacement demand, scenarios",Statistical agencies + employers,Quantity estimates with assumptions,BLOCKED — DATA
+A06,5,Assess training supply and observed gaps,"Provider data, tracer studies, enterprise surveys",Providers + employers + workers,Triangulated gap assessment,BLOCKED — DATA
+A07,6,Develop and cost response options,"Validated stages 0–5, feasibility and financing",SSEC for advice; competent authorities for decisions,Costed action plan and monitoring indicators,PROPOSED

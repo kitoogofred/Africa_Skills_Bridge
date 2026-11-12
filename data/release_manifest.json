@@ -1,0 +1,35 @@
+{
+  "version": "1.5.4",
+  "generated_utc": "2026-11-12T13:45:38.437011+00:00",
+  "upstream_notebook": "V1.5.3.2 executed baseline",
+  "world_bank_rows": 135,
+  "world_bank_endpoint_rows": 15,
+  "esco_profile_rows": 18,
+  "esco_relation_rows": 1017,
+  "source_status": {
+    "ESCO": "LIVE_CURRENT_RUN",
+    "WORLD_BANK": "LIVE_CURRENT_RUN",
+    "ESCO_VERIFIED_SKILL_EDGES": "1017",
+    "WORLD_BANK_NONMISSING": "135"
+  },
+  "figure_verification": {
+    "Figure 10": "PRESENT",
+    "Figure 11": "PRESENT",
+    "Figure 12": "PRESENT",
+    "Figure 13": "PRESENT",
+    "Figure 14": "PRESENT",
+    "Figure 15": "PRESENT",
+    "Figure 16": "PRESENT",
+    "Figure 17": "PRESENT",
+    "Figure 18": "PRESENT",
+    "Figure 19": "PRESENT"
+  },
+  "research_claim": "ILO-informed methodological prototype; no empirically validated occupational shortages or training-supply gaps",
+  "required_external_validation": [
+    "employer/worker consultation",
+    "sector statistics",
+    "occupation employment",
+    "provider and tracer data",
+    "formal SSEC/Council governance"
+  ]
+}

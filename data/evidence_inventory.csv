@@ -1,0 +1,8 @@
+dataset,records,status,evidence_role
+World Bank indicators,135,LIVE_CURRENT_RUN,Macro labour-market context; NOT occupation demand
+ESCO occupation profiles,18,LIVE_CURRENT_RUN,Occupational taxonomy reference; NOT local validation
+ESCO skill relations,1017,LIVE_CURRENT_RUN,Reference occupation-skill links; NOT shortage estimates
+Cross-sector search hits,60,LIVE_CURRENT_RUN,Search-theme discovery; NOT employer-confirmed needs
+Uganda employer surveys,0,NOT_INTEGRATED,Required for observed demand and workplace skill gaps
+TVET provider capacity/tracer studies,0,NOT_INTEGRATED,Required for training supply and graduate outcomes
+Occupation-level employment/forecasts,0,NOT_INTEGRATED,Required for workforce quantities and anticipation
