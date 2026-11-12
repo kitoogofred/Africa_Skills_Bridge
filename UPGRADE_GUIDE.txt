@@ -1,0 +1,6 @@
+Africa Skills Bridge V1.5.6 branding upgrade
+
+Replace app.py in the existing GitHub Desktop repository root.
+Replace .streamlit/config.toml in the existing repository.
+Commit and push to origin/main; Streamlit Cloud should redeploy.
+Do not remove the existing assets/, data/, tests/, or .github/ folders.
